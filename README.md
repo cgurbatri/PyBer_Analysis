@@ -11,9 +11,9 @@ The analysis and visualizations will ultimately help improve PyBer's access to r
 A summary dataframe is shown in **Challenge Table 1** below and also available in the analysis folder. 
 <img width="554" alt="summary_df" src="https://user-images.githubusercontent.com/45336910/119691380-854f6e80-be18-11eb-94af-1b620477441c.png">
 
-Table 1 suggests that urban cities have a greater number of total rides, total drivers, and total fares, while rural areas have the least. However, the inverse is true for average fare per ride and avergae fare per driver where those values are greatest in rural areas and least in urban cities. 
+Table 1 suggests that urban cities have a greater number of total rides, total drivers, and total fares, while rural cities have the least. However, the inverse is true for average fare per ride and avergae fare per driver where those values are greatest in rural areas and least in urban cities. 
 
-Specifically, the trend in total fares by city type can be resampled to explore only the months of January 2019 through April 2019, as shown in **Challenge Fig. 1** below. This analysis correlates with Table 1 above, suggesting that there rural areas generally  have lower total fares and urban cities have the highest total fares and suburban areas fall in between. Visualizing the data over months reveals that there is a consistent increase in total fares regardless of city type at the end of February. 
+Specifically, the trend in total fares by city type can be resampled to explore only the months of January 2019 through April 2019, as shown in **Challenge Fig. 1** below. This analysis correlates with Table 1 above, suggesting that there rural cities generally  have lower total fares and urban cities have the highest total fares and suburban cities fall in between. Visualizing the data over months reveals that there is a consistent increase in total fares regardless of city type at the end of February. 
 
 <img width="722" alt="Challenge_Fig  1" src="https://user-images.githubusercontent.com/45336910/119694163-fc860200-be1a-11eb-971a-f4b3f06e81b0.png">
 
