@@ -28,7 +28,7 @@ Fig. 7 -- pie chart of % total drivers by city type
 
 Major findings from the figures above include:
 * There is one outlier in the urban ride count data (Fig. 2) -- this outlier was included in the analysis
-* Average number of rides in rural cities is about 4 and 3.5 times lower per city than urban and suburban cities respectively (Fig. 2). **Ultimately, urban cities have the highest ridership demand.**
+* Average number of rides in rural cities is about 4 and 3.5 times lower per city than urban and suburban cities respectively (Fig. 2). Ultimately, urban cities have the highest ridership demand.
 * Fig 5-6, provide a nice visualization of the summary Table 1, showing that a large percentage of total rides, total drivers, and total fares are from urban cities. 
 * Urban cities have more drivers than suburban/rural cities
 * Rural cities have the highest average fare per ride and per driver
