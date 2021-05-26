@@ -36,6 +36,6 @@ Major findings from the figures above include:
 
 ## Summary
 Based on the analysis above, the following three lerecommendations are suggested:
-* The cost for PyBer is greatest in rural cities, which could discourage potential use of PyBer services. Based on analysis of driver to ridership rations, increasing the number of drivers in rural cities could potantially help lower these costs and ultimately increase ridership and revenue. 
+* The cost for PyBer is greatest in rural cities, which could discourage potential use of PyBer services. Based on analysis of driver to ridership ratios and its correlation with fare prices, increasing the number of drivers in rural cities could potantially help lower these costs and ultimately increase ridership and revenue. 
 * Additionally, placing a cap on the fare in rural cities could also address help maintain fare affordability.
 * Drivers in urban cities are earning less than drivers in rural cities, which could discourage drivers from working in urban cities. Perhaps other driver incentives could be offered to encourage drivers to continue to work in urban cities. 
